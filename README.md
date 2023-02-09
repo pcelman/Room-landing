@@ -3,7 +3,7 @@
 
 <img width="1393" alt="Screenshot 2023-02-09 at 11 27 18" src="https://user-images.githubusercontent.com/100241036/217840420-15cd919a-bc57-4939-906c-be8ac8509374.png">
 
-<img width="576" alt="Screenshot 2023-02-09 at 20 35 21" src="https://user-images.githubusercontent.com/100241036/217962888-cc893f65-5dd6-4015-a8b6-4101af20050f.png">
+<img width="1069" alt="Screenshot 2023-02-09 at 20 39 54" src="https://user-images.githubusercontent.com/100241036/217963358-9ac1c639-7fb6-40fa-9bf0-a7a52100da1b.png">
 
 
 
