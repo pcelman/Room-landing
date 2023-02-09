@@ -29,7 +29,4 @@ Users should be able to:
 
 - Website - [Paula Celman](https://portfolio-paulacelman.vercel.app/)
 
-<img width="372" alt="Screenshot 2023-02-09 at 11 34 01" src="https://user-images.githubusercontent.com/100241036/217842231-7ab011d4-9287-4631-9ea9-2c512891224a.png">
-<img width="373" alt="Screenshot 2023-02-09 at 11 31 48" src="https://user-images.githubusercontent.com/100241036/217841689-a1ba29f7-0f73-4ad1-9e25-a0807f69b149.png">
-<img width="375" alt="Screenshot 2023-02-09 at 11 33 10" src="https://user-images.githubusercontent.com/100241036/217842028-1484046d-a105-43eb-803c-733bc115e709.png">
 
