@@ -2,10 +2,7 @@
 [View the webpage](https://room-seven-amber.vercel.app/)
 
 <img width="1393" alt="Screenshot 2023-02-09 at 11 27 18" src="https://user-images.githubusercontent.com/100241036/217840420-15cd919a-bc57-4939-906c-be8ac8509374.png">
-
-<img width="1069" alt="Screenshot 2023-02-09 at 20 39 54" src="https://user-images.githubusercontent.com/100241036/217963358-9ac1c639-7fb6-40fa-9bf0-a7a52100da1b.png">
-
-
+<img width="1309" alt="Screenshot 2023-02-09 at 20 41 10" src="https://user-images.githubusercontent.com/100241036/217963517-86be7c52-9baf-42c4-a787-c92e56ca299d.png">
 
 <img width="1399" alt="Screenshot 2023-02-09 at 11 32 34" src="https://user-images.githubusercontent.com/100241036/217841883-5ac11f23-2144-4241-8418-a73bb785fd0b.png">
 
