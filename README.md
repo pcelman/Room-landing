@@ -1,6 +1,8 @@
 # Frontend Mentor - Room homepage solution
 [View the webpage](https://room-frontendmentor.vercel.app/)
 
+<img width="1393" alt="Screenshot 2023-02-09 at 11 27 18" src="https://user-images.githubusercontent.com/100241036/217840420-15cd919a-bc57-4939-906c-be8ac8509374.png">
+
 This is a solution to the [Room homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### The challenge
